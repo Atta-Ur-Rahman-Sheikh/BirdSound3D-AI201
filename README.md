@@ -14,7 +14,7 @@ A Python project for processing bird call audio, extracting features, creating 3
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 ## Usage
